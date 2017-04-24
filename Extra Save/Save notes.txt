@@ -1,0 +1,37 @@
+Dont forget
+
+Edit the player collision boxes
+Edit the friction
+Bullets kill themselves right as they cross the screen's edge. Just a reminder
+screen movement is a lil iffy
+
+Thinking of making a control screen for now. And as a final product i will make it
+options, so you can change the controls, or adjust volume shit like that
+
+I need to learn to use buttons in order to make a start screen, an end screen, and the options screen.
+____________________________________________________________________
+____________________________________________________________________
+(DONE,ish)Ammo drops (see below) -currently its just all things killed by anything drops the
+same amount no matter what you kill or with what explositions, or reactions when bullets hit things?
+Turret recoils
+____________________________________________________________________
+____________________________________________________________________
+
+Next: 
+maybe magic but magic is way in future
+Ammo drops (30-70% depending on enemy, 1-2 bullets if its dropped, if its not 50% chance to drop mana shit)
+Add sounds for shooting? dying? killing? picking up ammo? 
+Finish tutorial
+____________________________________________________________________
+
+After:
+Draw new background (space shit)
+Draw more enemies
+Make functions inside the mob class for those enemies (some that move and shoot shit like that)
+
+____________________________________________________________________
+
+Ideas that im not sure about:
+-Progressivly get more spells that you can either get in order, or use a point system to unlock after each level
+-Add ambient background sound track (this is a maybe) i dont want it to lag or be too loud or want it if it sounds weird
+-leveing system
